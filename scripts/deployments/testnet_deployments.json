@@ -1,0 +1,21 @@
+{
+  "gohmOracle": {
+    "address": "0xB7Cd4c0D10C38dF1b6AD57AC4328B810e20e0C89"
+  },
+  "OracleVerificationV1": {
+    "address": "0xfd0952105D39a4071264b600BCf6c1D0df4358D7",
+    "proxyAdmin": "0x173674c6d9630b7c3949e4988d9E079a0bE7cF81"
+  },
+  "PriceFeedV2": {
+    "address": "0x0C18d96746E2d0f04EadF62e919562CB9E6Ffc43",
+    "proxyAdmin": "0x173674c6d9630b7c3949e4988d9E079a0bE7cF81"
+  },
+  "CustomOracleWrapper": {
+    "address": "0x360f4a3458e607EFD0771A3775cDE57CBD5043E1",
+    "proxyAdmin": "0x173674c6d9630b7c3949e4988d9E079a0bE7cF81"
+  },
+  "ChainlinkWrapper": {
+    "address": "0x0dCeB22e6A84556eE98b4D18df1D52b4953bA17C",
+    "proxyAdmin": "0x173674c6d9630b7c3949e4988d9E079a0bE7cF81"
+  }
+}

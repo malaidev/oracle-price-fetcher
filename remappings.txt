@@ -1,0 +1,5 @@
+ds-test/=lib/ds-test/src/
+@openzeppelin/contracts-upgradeable/=lib/openzeppelin-contracts-upgradeable/contracts/
+@chainlink/contracts/src/=lib/chainlink/contracts/src/
+@uniswap/v3-periphery/=lib/v3-periphery/
+@uniswap/v3-core/=lib/v3-core/
